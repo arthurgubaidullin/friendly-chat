@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "devDependencies": {
+    "@nx/jest": "^16.2.1",
     "@nx/js": "16.2.1",
     "@nx/react": "^16.2.1",
     "@nx/workspace": "16.2.1",
